@@ -1,0 +1,15 @@
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\bin\Debug\net7.0\ejercicio_2.exe
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\bin\Debug\net7.0\ejercicio_2.deps.json
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\bin\Debug\net7.0\ejercicio_2.runtimeconfig.json
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\bin\Debug\net7.0\ejercicio_2.dll
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\bin\Debug\net7.0\ejercicio_2.pdb
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ejercicio_2.csproj.AssemblyReference.cache
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ejercicio_2.AssemblyInfoInputs.cache
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ejercicio_2.AssemblyInfo.cs
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ejercicio_2.csproj.CoreCompileInputs.cache
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ejercicio_2.dll
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\refint\ejercicio_2.dll
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ejercicio_2.pdb
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ejercicio_2.genruntimeconfig.cache
+D:\Curso_C#\C-curso\ejercicios_sesion_5\ejercicio_2\obj\Debug\net7.0\ref\ejercicio_2.dll
